@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Lobster&display=swap');
+body {
+	font-family: 'Caveat', cursive;
+}
+.header{
+	color: red;
+	font-family: 'Lobster', cursive;
+}
